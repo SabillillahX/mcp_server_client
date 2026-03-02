@@ -52,6 +52,7 @@ app.*.map.json
 # environment
 *.env
 *.env.*
+docker-compose*.yml
 .vscode
 upload-keystore.jks
 .flutter-plugins
